@@ -1,5 +1,5 @@
 package main.java.spellchess.view;
 
-public class spellchessGUI {
+public class SpellchessGUI {
     
 }
